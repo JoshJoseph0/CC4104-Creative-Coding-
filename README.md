@@ -7,3 +7,4 @@ A real time audio visualiser, with 4 different effects
 A city or landscape generator, with at least 3 distinct types of building or land. 
 ## Project 3
 An autonomous pattern generator that will create a rich visual effect that is different each time it is run (think Tyler Hobbs - Fidenza)
+[This is my third pro](thirdproject.md)
