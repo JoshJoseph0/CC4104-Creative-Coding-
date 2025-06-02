@@ -1,7 +1,7 @@
 # CC4104-Creative-Coding portfolio
 ## Josh Joseph - 554337
 ## Project 1
-A real time audio visualiser, with 4 different effects
+A real time audio visualiser, with 3 different effects
 [This is my first pro](firstproject.md)
 ## Project 2
 A city or landscape generator, with at least 3 distinct types of building or land. 
